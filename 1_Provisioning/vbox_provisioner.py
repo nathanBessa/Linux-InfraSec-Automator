@@ -9,7 +9,7 @@ It includes the installation of base services (SSH/Apache), generation of secure
 injection of ED25519 SSH keys, and application of hardening policies.
 
 Author: Nataniel Bessa
-Version: 1.1.0
+Version: 1.1.1
 """
 
 import subprocess
