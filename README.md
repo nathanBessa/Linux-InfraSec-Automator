@@ -44,7 +44,7 @@ The SecOps module generates a local HTML dashboard providing immediate visibilit
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/Linux-InfraSec-Automator.git](https://github.com/nathanBessa/Linux-InfraSec-Automator)
+   git clone [https://github.com/yourusername/Linux-InfraSec-Automator.git](https://github.com/nathanBessa/Linux-InfraSec-Automator.git)
 
 ### Library Installation
 To execute the automation scripts, you need to install the required external Python libraries. The project includes a `requirements.txt` file for ease of setup.
